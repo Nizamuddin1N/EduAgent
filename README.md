@@ -7,6 +7,3 @@ Let me build both properly for you.Good. I'll give you four diagrams — HLD fir
 
 This is the big picture: all the services, how they talk to each other, and where each technology lives.Click any box to go deeper on that component. Now the LLD — three diagrams covering the three most important internal designs.
 
----
-
-**LLD 1 — The agent reasoning loop** (this is what interviewers will ask you to draw on a whiteboard)
