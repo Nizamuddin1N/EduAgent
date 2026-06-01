@@ -5,5 +5,5 @@ Let me build both properly for you.Good. I'll give you four diagrams — HLD fir
 
 **HLD — High Level Design**
 
-This is the big picture: all the services, how they talk to each other, and where each technology lives.Click any box to go deeper on that component. Now the LLD — three diagrams covering the three most important internal designs.
+This is the big picture: all the services, how they talk to each other, and where each technology lives.Click any box to go deeper on that component. Now the LLD — three diagrams covering the three most important internal designs
 
